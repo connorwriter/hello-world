@@ -1,5 +1,4 @@
 # hello-world
-Learning how to use GitHub
 
 My name is Connor, I am a human. Something humans can do is called reading.
 Reading is when you look at symbols on a flat surface, using a part of the body called the eyes; I like reading symbols.
